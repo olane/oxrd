@@ -1,0 +1,25 @@
+{
+  "name": "oxrd",
+  "version": "1.0.0",
+  "description": "The ORRA website",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olane/oxrd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/olane/oxrd/issues"
+  },
+  "homepage": "https://github.com/olane/oxrd#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.5"
+  }
+}
