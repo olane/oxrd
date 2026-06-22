@@ -44,3 +44,10 @@ Eddington RA represents residents of the neighbouring Eddington development. The
 website has information about events and facilities in Eddington.
 
 [Visit eddingtonra.org &rarr;](https://www.eddingtonra.org/)
+
+## Richmond Road Residents' Association
+
+Richmond Road RA is a neighbouring residents' association representing residents
+of Richmond Road, Wentworth Road and Nursery Walk.
+
+[Visit their website &rarr;](https://sites.google.com/site/richmondroadcambridge/Home)
