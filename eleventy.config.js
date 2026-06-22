@@ -1,4 +1,8 @@
+const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addPlugin(eleventyNavigationPlugin);
+
   eleventyConfig.addFilter("readableDate", (date) =>
     new Date(date).toLocaleDateString("en-GB", {
       day: "numeric",

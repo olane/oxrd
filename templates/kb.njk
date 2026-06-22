@@ -1,0 +1,22 @@
+---
+layout: default.njk
+---
+
+<div class="kb-layout">
+  <nav class="kb-sidebar" aria-label="Knowledge base">
+    <details class="kb-nav" open>
+      <summary>{{ eleventyNavigation.key }}</summary>
+      {{ collections.all | eleventyNavigation | eleventyNavigationToHtml({ activeKey: eleventyNavigation.key, useAriaCurrentAttr: true }) | safe }}
+    </details>
+  </nav>
+
+  <div class="kb-content">
+    {{ content | safe }}
+  </div>
+</div>
+
+<script>
+  if (window.matchMedia("(max-width: 640px)").matches) {
+    document.querySelector(".kb-nav").removeAttribute("open");
+  }
+</script>

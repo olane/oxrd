@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/olane/oxrd#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^3.1.5"
+    "@11ty/eleventy": "^3.1.5",
+    "@11ty/eleventy-navigation": "^1.0.5"
   }
 }
