@@ -1,0 +1,23 @@
+---
+layout: default.njk
+title: News & updates – ORRA
+---
+
+<section>
+  <h2>News &amp; updates</h2>
+  <p>
+    News, updates and our regular newsletter, with the latest on local issues,
+    events and what the committee has been working on.
+  </p>
+  <p>
+    <a href="/feed.xml">Subscribe via RSS &rarr;</a>
+  </p>
+</section>
+
+{% for post in collections.news | reverse %}
+<section>
+  <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+  <p class="post-date">{{ post.date | readableDate }}</p>
+  {% if post.data.summary %}<p>{{ post.data.summary }}</p>{% endif %}
+</section>
+{% endfor %}

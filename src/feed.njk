@@ -1,0 +1,25 @@
+---
+permalink: /feed.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Oxford Road Residents Association</title>
+  <subtitle>News &amp; updates</subtitle>
+  <link href="https://oxrd.co.uk/feed.xml" rel="self"/>
+  <link href="https://oxrd.co.uk/"/>
+  <id>https://oxrd.co.uk/</id>
+  {%- set latest = collections.news | last %}
+  <updated>{{ latest.date | isoDate }}</updated>
+  {%- for post in collections.news | reverse %}
+  <entry>
+    <title>{{ post.data.title }}</title>
+    <link href="https://oxrd.co.uk{{ post.url }}"/>
+    <id>https://oxrd.co.uk{{ post.url }}</id>
+    <updated>{{ post.date | isoDate }}</updated>
+    {%- if post.data.summary %}
+    <summary>{{ post.data.summary }}</summary>
+    {%- endif %}
+  </entry>
+  {%- endfor %}
+</feed>
