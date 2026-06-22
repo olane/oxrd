@@ -75,6 +75,12 @@ section p + p {
   margin-top: 1rem;
 }
 
+.post-date {
+  font-size: 0.85rem;
+  color: #777;
+  margin-bottom: 0.5rem;
+}
+
 footer {
   text-align: center;
   padding: 1.5rem 1rem;

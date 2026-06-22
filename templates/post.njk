@@ -1,0 +1,15 @@
+---
+layout: default.njk
+---
+
+<article>
+  <section>
+    <h2>{{ title }}</h2>
+    <p class="post-date">{{ date | readableDate }}</p>
+    {{ content | safe }}
+  </section>
+
+  <section>
+    <p><a href="/news/">&larr; Back to News &amp; updates</a></p>
+  </section>
+</article>
