@@ -29,3 +29,11 @@ their annual easter egg hunt. Find out more on their website or keep an eye on
 our mailing list where we publicise events.
 
 [Visit fohrr.org.uk &rarr;](https://fohrr.org.uk/)
+
+## Darwin Green Residents' Association
+
+DGRA is a neighbouring residents' association at Darwin Green. They have a wealth
+of knowledge on their website, including lots of information about the leisure and
+community facilities at Darwin Green.
+
+[Visit dgra.cam &rarr;](https://dgra.cam/)
