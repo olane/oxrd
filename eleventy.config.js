@@ -14,6 +14,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/constitution.pdf");
   eleventyConfig.addPassthroughCopy("src/images");
   eleventyConfig.addPassthroughCopy("src/newsletters");
+  eleventyConfig.addPassthroughCopy("src/flyers");
   eleventyConfig.addPassthroughCopy("CNAME");
 
   return {

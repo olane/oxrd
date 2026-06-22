@@ -39,7 +39,14 @@ section {
 }
 
 section h2 {
+  font-size: 1.6rem;
+  margin-bottom: 0.5rem;
+  color: #2c5f2d;
+}
+
+section h3 {
   font-size: 1.3rem;
+  margin-top: 1.5rem;
   margin-bottom: 0.5rem;
   color: #2c5f2d;
 }
