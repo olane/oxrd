@@ -7,6 +7,8 @@ module.exports = function (eleventyConfig) {
     })
   );
 
+  eleventyConfig.addFilter("isoDate", (date) => new Date(date).toISOString());
+
   eleventyConfig.addPassthroughCopy("src/style.css");
   eleventyConfig.addPassthroughCopy("src/favicon.svg");
   eleventyConfig.addPassthroughCopy("src/constitution.pdf");
