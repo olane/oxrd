@@ -37,3 +37,10 @@ of knowledge on their website, including lots of information about the leisure a
 community facilities at Darwin Green.
 
 [Visit dgra.cam &rarr;](https://dgra.cam/)
+
+## Eddington Residents' Association
+
+Eddington RA represents residents of the neighbouring Eddington development. Their
+website has information about events and facilities in Eddington.
+
+[Visit eddingtonra.org &rarr;](https://www.eddingtonra.org/)
