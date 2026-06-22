@@ -25,3 +25,9 @@ Local groups, churches and organisations open to residents.
 What ORRA is campaigning on, and how you can help.
 
 [Browse local issues & campaigns &rarr;](/kb/local-issues/)
+
+## About ORRA
+
+Who we are — the committee, our constitution, and how to get in touch.
+
+[About ORRA &rarr;](/kb/about/)
