@@ -26,6 +26,12 @@ What ORRA is campaigning on, and how you can help.
 
 [Browse local issues & campaigns &rarr;](/kb/local-issues/)
 
+## History of Oxford Road
+
+Local stories, photographs, and memories from residents.
+
+[History of Oxford Road &rarr;](/kb/history/)
+
 ## About ORRA
 
 Who we are — the committee, our constitution, and how to get in touch.
