@@ -11,3 +11,4 @@ eleventyNavigation:
 The local issues ORRA is working on, and how you can get involved.
 
 - [Community petition: stop the rat running](/kb/local-issues/traffic-petition/)
+- [Traffic counter](/kb/local-issues/traffic-counter/)
