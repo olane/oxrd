@@ -13,14 +13,14 @@ Oxford Road. Did you know that a young tree needs at least 50 litres of water pe
 healthy in the summer months?
 
 The two elm trees in the islands at the Huntingdon Road end of Oxford Road were
-funded by donations of around £10-20 each from a group of local residents, and
+funded by donations of around £10–20 each from a group of local residents, and
 planted by the Cambridge City Council arboricultural team. Watering and general
 maintenance is looked after by residents. The residents at Australia Court have 
 kindly offered their rainfall capture tanks to help.
 
 The islands at the Wentworth Street junction were funded by the County Council.
-The trees in these islands are generally watered and maintened by the County team, 
-although residents also take the initiative to keep the planters neat and tidy.
+The trees in these islands are generally watered and maintained by the County team, 
+while residents also take the initiative to keep the planters neat and tidy.
 
 Gardening is very much a shared effort — residents help with watering, weeding,
 soil improvement and planting, and many have donated plants. Unfortunately
@@ -31,9 +31,7 @@ care of what we have.
 
 The Huntingdon Road elms are registered with
 [Trees for Streets](https://www.treesforstreets.org/), the national street tree
-sponsorship scheme. Through this time of year they send out a reminder to water
-the trees every Wednesday, along with an interesting read — a nice way to keep
-tabs on the trees.
+sponsorship scheme.
 
 ## Get involved
 
