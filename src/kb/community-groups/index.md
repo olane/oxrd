@@ -51,3 +51,10 @@ Richmond Road RA is a neighbouring residents' association representing residents
 of Richmond Road, Wentworth Road and Nursery Walk.
 
 [Visit their website &rarr;](https://sites.google.com/site/richmondroadcambridge/Home)
+
+## Street planters & trees
+
+How the trees and planters on our highway islands are looked after, and how to
+join the WhatsApp watering group.
+
+[Street planters & trees &rarr;](/kb/community-groups/street-planters/)
