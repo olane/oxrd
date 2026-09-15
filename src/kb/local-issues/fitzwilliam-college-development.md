@@ -34,7 +34,7 @@ committee will be working to make sure these are managed properly, including:
 - discharge of the conditions attached to the permission
 
 We will post updates as things progress. If you have any questions or concerns,
-email us at [hello@oxrd.co.uk](mailto:hello@oxrd.co.uk).
+or want to help with this, email us at [hello@oxrd.co.uk](mailto:hello@oxrd.co.uk).
 
 <p class="cta-wrapper">
   <a class="cta" href="https://applications.greatercambridgeplanning.org/online-applications/applicationDetails.do?activeTab=summary&keyVal=T5XMRUDXG6T00">
