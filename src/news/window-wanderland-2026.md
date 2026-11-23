@@ -12,9 +12,13 @@ their windows with illuminated displays, and neighbours and visitors wander the
 streets after dark to enjoy them. It started in Bristol and now takes place in
 neighbourhoods across the country.
 
-Homes on Oxford Road are invited to take part by creating a window display
-&mdash; anything from a simple string of fairy lights to an elaborate scene.
+Taking part is simple:
 
-More details are to follow, so look out for more information soon. In the
-meantime, you can find out more about the wider event on the
+- **No need to register** &mdash; if your window is lit up, you're part of it.
+- **Make whatever display you'd like** &mdash; a string of fairy lights, a paper
+  snowflake, or an elaborate festive scene. There's no minimum effort!
+- **Pop it in your window** and enjoy a wander along Oxford Road after dark to
+  see what your neighbours have come up with.
+
+You can find out more about the wider event on the
 [Window Wanderland website](https://www.windowwanderland.com/event/oxford-rd-2026/).
